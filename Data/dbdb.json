@@ -1,0 +1,58 @@
+{
+    "rows":[
+        {
+            "columns" : [
+                {
+                    "type": "Article",
+                    "width" : 5,
+                    "url": "https://www.dagbladet.no/sport/sa-mye-bedre-ble-jeg-av-doping/75171680",
+                    "title": "Så mye ble jeg bedre av doping",
+                    "imageURL": "https://picsum.photos/id/237/200/300"
+                },
+                {
+                    "type": "Article",
+                    "width" : 7,
+                    "url": "https://www.dagbladet.no/sport/sa-mye-bedre-ble-jeg-av-doping/75171680",
+                    "title": "Her tester vi en annen tittel",
+                    "imageURL": "https://www.dagbladet.no/images/75172008.jpg?imageId=75172008&x=0&y=10.289115646259&cropw=100&croph=48.044217687075"
+                }
+            ]
+        },
+        {
+            "columns" : [
+                {
+                    "type": "Article",
+                    "width" : 12,
+                    "url": "https://www.dagbladet.no/sport/sa-mye-bedre-ble-jeg-av-doping/75171680",
+                    "title": "Dette er row 2",
+                    "imageURL": "https://www.dagbladet.no/images/75172008.jpg?imageId=75172008&x=0&y=10.289115646259&cropw=100&croph=48.044217687075"
+                }
+            ]
+        },
+        {
+            "columns" : [
+                {
+                    "type": "Article",
+                    "width" : 4,
+                    "url": "https://www.dagbladet.no/sport/sa-mye-bedre-ble-jeg-av-doping/75171680",
+                    "title": "Dette er row 2",
+                    "imageURL": "https://www.dagbladet.no/images/75172008.jpg?imageId=75172008&x=0&y=10.289115646259&cropw=100&croph=48.044217687075"
+                },
+                {
+                    "type": "Article",
+                    "width" : 4,
+                    "url": "https://www.dagbladet.no/sport/sa-mye-bedre-ble-jeg-av-doping/75171680",
+                    "title": "Så mye ble jeg bedre av doping",
+                    "imageURL": "https://picsum.photos/id/237/200/300"
+                },
+                {
+                    "type": "Article",
+                    "width" : 4,
+                    "url": "https://www.dagbladet.no/sport/sa-mye-bedre-ble-jeg-av-doping/75171680",
+                    "title": "Her tester vi en annen tittel",
+                    "imageURL": "https://www.dagbladet.no/images/75172008.jpg?imageId=75172008&x=0&y=10.289115646259&cropw=100&croph=48.044217687075"
+                }
+            ]
+        }
+    ]
+}
